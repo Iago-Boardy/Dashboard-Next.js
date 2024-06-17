@@ -15,7 +15,7 @@ Technologies used in the project:
 - Next.js
 - React
 - JavaScript/TypeScript
-- CSS Modules or Styled Components
+- Tailwind CSS
 
 ---
 
