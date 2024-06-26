@@ -19,4 +19,4 @@ Technologies used in the project:
 
 ---
 
-Feel free to explore the repository for details on building a basic dashboard in Next.js. Happy coding!
+Feel free to explore the repository for details on building a basic dashboard in Next.js.
